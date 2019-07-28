@@ -1,5 +1,5 @@
 const Discord = require('discord.js'),
-      prefix = "nb?";
+      prefix = "n?";
 
 module.exports = async(client, message) => {
 
